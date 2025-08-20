@@ -81,4 +81,4 @@ Estudiante autodidacta en desarrollo de videojuegos y modelado 3D, apasionado po
 </p>
 
 ## 📂 Proyecto Destacado  
-🔹 [Invernadero Inteligente](https://github.com/GrAlmazan/Proyecto-GreenLife) — Proyecto con Arduino y App en Unity  
+🔹 [Invernadero Inteligente](https://github.com/GrAlmazan/Proyecto-GreenLife) — Proyecto con Arduino y sensores
