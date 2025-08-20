@@ -64,8 +64,6 @@ Estudiante autodidacta en desarrollo de videojuegos y modelado 3D, apasionado po
 
 </div>
 
----
-
 ## 🌐 Redes Sociales  
 <p align="center">
   <a href="https://www.linkedin.com/in/gregorio-almazan" target="_blank">
@@ -81,8 +79,6 @@ Estudiante autodidacta en desarrollo de videojuegos y modelado 3D, apasionado po
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 📂 Proyecto Destacado  
 🔹 [Invernadero Inteligente](https://github.com/GrAlmazan/Proyecto-GreenLife) — Proyecto con Arduino y App en Unity  
