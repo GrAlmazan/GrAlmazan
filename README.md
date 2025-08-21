@@ -52,7 +52,6 @@ Estudiante autodidacta en desarrollo de videojuegos y modelado 3D, apasionado po
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/MagicaVoxel-2E8B57?style=for-the-badge&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /><br>
