@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Gregorio
+# 👋🏼 ¡Hola, qué tal! Soy Gregorio  
 
 ## Ingeniero de Sistemas y Desarrollador de Videojuegos
 Estudiante autodidacta en desarrollo de videojuegos y modelado 3D. Mi objetivo es fundar mi propio estudio de desarrollo de videojuegos independiente.
 
 ## 🚀 Sobre mí
-* Puedo programar y también modelar en 3D.
-* Estudio de forma autodidacta temas de videojuegos y liderazgo.
-* Me enfoco en combinar creatividad con disciplina para crear proyectos completos.
+* **Creatividad 3D:** Puedo programar y también modelar en 3D.
+* **Aprendizaje Continuo:** Estudio de forma autodidacta temas de videojuegos, liderazgo y arte.
+* **Proyectos Completos:** Busco combinar la creatividad con la disciplina para entregar proyectos sólidos.
 
 ## 🛠️ Tecnologías y Herramientas
 
